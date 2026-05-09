@@ -13,13 +13,11 @@ To get started with the tools in this repository:
 
     bash
 
-git clone https://github.com/yourusername/cybersecurity-projects.git
 
 Navigate to the directory:
 
 bash
 
-    cd cybersecurity-projects
 
     Explore the tools and scripts: Check out the tools and audits directories for specific functionalities.
 
